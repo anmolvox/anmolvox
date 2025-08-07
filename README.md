@@ -24,7 +24,7 @@
 
 ## 📫 Reach Me At
 - Email: anmol.sharma@ukg.com  
-- LinkedIn: [linkedin.com/in/anmolvox](https://linkedin.com/in/anmolvox)  
+- LinkedIn: https://www.linkedin.com/in/anmol-sharma-76a896a3/
 - GitHub Discussions or Issues here on my repos
 
 ## 😄 Pronouns
